@@ -1,1 +1,5 @@
-print ("hello "*5)
+a="Hello "
+
+n=9
+
+print (a*n)
