@@ -1,6 +1,6 @@
 s= list()
 K=2
-N = input("Enter the number of elements you want:")
+N = input("Enter the number of elements:")
 print ('Enter numbers in array: ')
 for i in range(int(N)):
     n = input("number :")
