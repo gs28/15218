@@ -6,4 +6,4 @@ for i in range(2,a//2+1):
 if(k<=0):
     print("Number is prime")
 else:
-    print("Number isn't prime")
+    print("Number is not prime")
