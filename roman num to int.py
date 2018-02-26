@@ -9,6 +9,6 @@ class py_solution:
                 int_val += rom_val[s[i]]
         return int_val
 
-print(py_solution().roman_to_int('MMMCMLXXXVI'))
-print(py_solution().roman_to_int('MMMM'))
-print(py_solution().roman_to_int('C'))
+print(py_solution().roman_to_int('XI'))
+print(py_solution().roman_to_int('XIII'))
+print(py_solution().roman_to_int('XX'))
