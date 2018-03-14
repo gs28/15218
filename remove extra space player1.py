@@ -1,2 +1,2 @@
-sentence = ' hello  apple'
+sentence = ' hi guvi'
 print(sentence.replace(" ", ""))
